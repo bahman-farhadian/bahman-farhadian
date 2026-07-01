@@ -14,9 +14,9 @@ Grounded in the full operational stack—network, virtualization, containerizati
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bahman-farhadian&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bahman-farhadian&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github&cache_seconds=21600" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahman-farhadian&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahman-farhadian&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6&cache_seconds=21600" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=bahman-farhadian&theme=catppuccin-mocha&hide_border=true&ring=cba6f7&fire=fab387&currStreakLabel=b4befe&sideLabels=b4befe&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=a6adc8" />
 
