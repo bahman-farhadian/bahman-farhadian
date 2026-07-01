@@ -14,9 +14,9 @@ Grounded in the full operational stack—network, virtualization, containerizati
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bahman-farhadian&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github&cache_seconds=21600" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bahman-farhadian&show_icons=true&hide_border=true&rank_icon=github&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&cache_seconds=21600" />
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahman-farhadian&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6&cache_seconds=21600" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahman-farhadian&layout=compact&hide_border=true&langs_count=6&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&cache_seconds=21600" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=bahman-farhadian&theme=catppuccin-mocha&hide_border=true&ring=cba6f7&fire=fab387&currStreakLabel=b4befe&sideLabels=b4befe&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=a6adc8" />
 
