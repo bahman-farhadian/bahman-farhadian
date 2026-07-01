@@ -15,19 +15,19 @@ Grounded in the full operational stack—network, virtualization, containerizati
 <div align="center">
 
 <p>
-  <img width="520" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bahman-farhadian&show_icons=true&hide_border=true&rank_icon=github&card_width=520&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&cache_seconds=21600" />
+  <img width="640" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bahman-farhadian&show_icons=true&hide_border=true&rank_icon=github&card_width=640&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&cache_seconds=21600" />
 </p>
 
 <p>
-  <img width="520" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahman-farhadian&layout=compact&hide_border=true&langs_count=6&card_width=520&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&cache_seconds=21600" />
+  <img width="640" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahman-farhadian&layout=compact&hide_border=true&langs_count=6&card_width=640&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&cache_seconds=21600" />
 </p>
 
 <p>
-  <img width="520" src="https://streak-stats.demolab.com?user=bahman-farhadian&theme=catppuccin-mocha&hide_border=true&ring=cba6f7&fire=fab387&currStreakLabel=b4befe&sideLabels=b4befe&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=a6adc8" />
+  <img width="640" src="https://streak-stats.demolab.com?user=bahman-farhadian&theme=catppuccin-mocha&hide_border=true&ring=cba6f7&fire=fab387&currStreakLabel=b4befe&sideLabels=b4befe&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=a6adc8" />
 </p>
 
 <p>
-  <img width="520" src="https://github-readme-activity-graph.vercel.app/graph?username=bahman-farhadian&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cba6f7&area=true&area_color=313244&hide_border=true" />
+  <img width="640" src="https://github-readme-activity-graph.vercel.app/graph?username=bahman-farhadian&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cba6f7&area=true&area_color=313244&hide_border=true" />
 </p>
 
 </div>
