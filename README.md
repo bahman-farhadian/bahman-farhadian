@@ -19,7 +19,7 @@ Grounded in the full operational stack—network, virtualization, containerizati
 </p>
 
 <p>
-  <img width="640" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahman-farhadian&layout=compact&hide_border=true&langs_count=6&card_width=640&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&exclude_repo=divar-real-estate-ai&cache_seconds=21600" />
+  <img width="640" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahman-farhadian&layout=compact&hide_border=true&langs_count=6&card_width=640&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&exclude_repo=divar-real-estate-ai&hide=html&cache_seconds=21600" />
 </p>
 
 <p>
