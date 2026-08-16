@@ -30,6 +30,23 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=catppuccin-mocha&hide_border=true&ring=cba6f7&fire=fab387&currStreakLabel=b4befe&sideLabels=b4befe&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=a6adc8
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Pinned to a commit SHA rather than a tag: low-star third-party action
+      # with repo write access, so the ref must stay immutable.
+      - name: Generate activity graph card
+        uses: maurodesouza/github-readme-activity-graph-action@9b38b03cac7ffb9f093a82f0ea9c634d5df62297 # v1.0.0
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cba6f7&area=true&area_color=313244&hide_border=true
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

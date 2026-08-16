@@ -23,11 +23,11 @@ Grounded in the full operational stack—network, virtualization, containerizati
 </p>
 
 <p>
-  <img width="640" src="https://streak-stats.demolab.com?user=bahman-farhadian&theme=catppuccin-mocha&hide_border=true&ring=cba6f7&fire=fab387&currStreakLabel=b4befe&sideLabels=b4befe&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=a6adc8" />
+  <img width="640" src="./profile/streak.svg" />
 </p>
 
 <p>
-  <img width="640" src="https://github-readme-activity-graph.vercel.app/graph?username=bahman-farhadian&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cba6f7&area=true&area_color=313244&hide_border=true" />
+  <img width="640" src="./profile/activity-graph.svg" />
 </p>
 
 </div>
